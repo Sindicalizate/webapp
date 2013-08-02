@@ -2,6 +2,7 @@
 
 ** TODO: Colocar enlaces a los foros y otros recursos del proyecto **
 
+
 # Contribuir
 Si eres desarrollador web, diseñador web o conocedor de los procesos de sindicalización o la ley detrás de ellos; o si eres un creativo multimedia que produce videos o ilustraciones necesitamos de tu ayuda.
 
