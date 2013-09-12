@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node app.js"
+    ,"test": " jasmine-node --autotest --watch --verbose ../specs"
   },
   "dependencies": {
     "express": "3.3.4",
@@ -11,9 +12,6 @@
     "less-middleware": "*"
   },
   "devDependencies": {
-    "mocha": ">= 1.12.0"
-  },
-  "scripts": {
-    "test": "mocha tests"
+    "jasmine-node": ">= 1.1.0"
   }
 }
