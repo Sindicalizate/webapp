@@ -1,0 +1,19 @@
+{
+  "name": "sindicalizate",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "jade": "*",
+    "less-middleware": "*"
+  },
+  "devDependencies": {
+    "mocha": ">= 1.12.0"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  }
+}
