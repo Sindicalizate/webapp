@@ -24,10 +24,12 @@ Nos hemos dado la cuenta que la iniciativa “Rescata un computín” ha tenido 
 ##Literatura recomendada y trasfondo académico
 La problemática que abarca esta aplicación tiene que ver con algunos problemas computacionales conocidos y trata de aplicarlos en el ámbito de redes sociales:
 
-1. [http://es.wikipedia.org/wiki/Problema_de_los_dos_generales] (Problema de los dos generales)
-2. [http://en.wikipedia.org/wiki/Two-phase_commit_protocol] (Commit de dos fases)
-3. [https://es.wikipedia.org/wiki/Teor%C3%ADa_de_grafos]( Teoría de grafos)
+1. [Problema de los dos generales](http://es.wikipedia.org/wiki/Problema_de_los_dos_generales)
+2. [Commit de dos fases](http://en.wikipedia.org/wiki/Two-phase_commit_protocol)
+3. [Teoría de grafos](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_grafos)
 
 Mayor información sobre legislativa actual laboral chilena:
 
-1. [http://iura.cl/ctj]( Código de trabajo)
+1. [Código de trabajo](http://iura.cl/ctj)
+2. [Giía organizaciones sindicales de Dirección de Trabajo (descarga)](http://www.dt.gob.cl/m/1620/articles-60029_recurso_1.doc)
+3. [Blog ¡arma tu sindicato!](http://armatusindicato.blogspot.com/2007/08/la-formacin-de-un-sindicato.html)
