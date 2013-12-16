@@ -19,8 +19,8 @@ Esta proyecto es resultado de trabajo de algunos participantes de la comunidad C
 * Ambientes estresantes y donde los empleados no se tratan con el respecto
 * Influencia negativa de las empresa de Outsourcing 
 * Poca transparencia sobre los ingresos promedios etc.
-* 
-Nos hemos dado la cuenta que la iniciativa “Rescata un computín” ha tenido un efecto limitado, lejos de provocar un cambio profundo dentro de la sociedad. Este proyecto es un intento de provocar un cambio en mayor escala utilizando los mecanismos tradicionales de organización de empleados. 
+
+Nos hemos dado cuenta que la iniciativa “Rescata un computín” ha tenido un efecto limitado, lejos de provocar un cambio profundo dentro de la sociedad. Este proyecto es un intento de provocar un cambio en mayor escala utilizando los mecanismos tradicionales de organización de empleados. 
 
 ##Literatura recomendada y trasfondo académico
 La problemática que abarca esta aplicación tiene que ver con algunos problemas computacionales conocidos y trata de aplicarlos en el ámbito de redes sociales:
