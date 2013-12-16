@@ -6,6 +6,7 @@ Aplicación Facebook que permite a usuarios organizarse para formar un sindicato
 
 ##Solución
 La aplicación permite que un usuario de Facebook exprese interés de formar el sindicato dentro de una empresa, la cual identifica mediante el RUT. La [página de SII](https://zeus.sii.cl/cvc/stc/stc.html) permite consultar el RUT de la empresa y así evitar la confusión que algunos trabajadores podrían tener sobre la razón social e identidad exacta de la empresa para la cual trabajan.
+
 Usuario indicara que amigos de Facebook son sus colegas en la empresa y con cuales le gustaría compartir su nombre, *siempre y cuando ellos también indiquen que  a el lo quieren informar* sobre su intención de formar el sindicato. De este modo, hasta que los dos amigos no indican el otro como persona de confianza y el círculo no está cerrado, nadie está informado sobre la identidad del otro y se mantiene el anonimato.
 Una vez que se forme un grupo que sobrepase el número de trabajadores requerido legalmente para formar el sindicato y tomando en cuenta el grado de confianza, se descubren las identidades de todos los interesados y se les invita a llevar a cabo la asamblea constituyente.
 
